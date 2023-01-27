@@ -44,4 +44,15 @@ champ  dans lequel vous pouvez saisir un commentaire multiligne
  git add --all
  git commit -m "start nouvelle branch mastrer
 
+------------------------
+cas pratique
+en utilisant VSC (son extension de gestion de git)
+créer une branche mention-légales
 
+créer une nouvelle page mention-legal.html 
+remplir le texte
+modifier les footer de toutes les pages
+git add git commit (menu de gauche)
+
+revenir sur la branche master 
+fusionner la branch master avec la mention-légale
