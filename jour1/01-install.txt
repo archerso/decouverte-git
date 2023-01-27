@@ -1,0 +1,25 @@
+TELECHARGER git
+
+https://git-scm.com/downloads
+=>téléchargé / installlé
+=>fermé le terminal=> réouvrir le terminal => faire en sorte que le terminal détecte git
+
+LAISEER dans le telechargement et faire un double click
+
+
+VERIFIER LA VERSION (2.39.1)
+
+taper cmd
+dans la console
+taper --version
+git version 2.39.1.windows.1 => git est bien installé sur l'ordianteur et vous avez la dernière version.
+
+=> ajouter  des infos auprè de git=> qui est en train de travaillé
+
+git config --global user.name "Stéphane O"
+git config --global user.email "badarcher.so@gmail.com"
+
+-- c'est deux commandes n'ont aucune importance pour github
+taper cls
+pour "nettoyer l'écran"
+

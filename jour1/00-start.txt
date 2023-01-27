@@ -1,0 +1,68 @@
+support :
+https://formation.webdevpro.net/git
+login :
+password :
+
+note de cours sur un github
+
+-----------------------
+git  /  github
+=>outil qui permet de VERSIONNER
+
+=>projet informatique => écrire du code
+=> plus votre projet va évoluer
+=>plus ca avance plus vous arrivez sur des fonctionnalités que vous connaissez password
+=> plus la fonctionnalités => c'est la première fois que vous entendez parler / première fois que vous expérimenter.
+
+=> forte chance que vous modifiez le mauvais fichier => plus rien ne marche
+
+1ere ideé
+=> copie du dossier qui convient tout le projet => nom de version =>date  /fonctionnalités=> permet de revenir en arrière
+
+=> idéal pour des petits projets // 1 seul développeur
+
+=> gros projet => Linux
+millier de fichier /trés nombreux développeurs
+=> 1 seule personne dédié à réconcilier toutes les évolutions du projet
+=> avant svn (trop lent)
+=> créateur linus Torvald = > git
+
+NE PAS CONFONDRE AVEC github
+
+git outil qui permet de faire du versionning, permet de répondre à 4 questions
+=>quel fichier ?
+=>qui a modifié ?
+=> quand modifié ?
+=>pourquoi il a été modifié ??
+
+=> projet => pouvoir répondre à ces 4 question sur Torvald
+
+
+
+
+
+-----------------
+windows invite de commande
+linux shell
+
+mac ou terminal
+outil qui permet  d'executer des programmes
+=> gérer la
+=> dir 
+=> cls
+
+
+TAPER CMD POUR AVOIR LA CONSOLE
+
+outil qui permet de savoir le contenu du dossier en cours=> cls => clear vider l'invite de commande
+=> cd => change directory => changer de dossier
+
+=> cd .. => remonte dans le dossier parnent
+=< cd <nom-dossier> => aller dans le dossier <nom-dossier> 
+
+=> tree
+=> tree  / F 
+=> tree / A => flag
+
+
+

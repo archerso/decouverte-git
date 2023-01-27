@@ -1,0 +1,64 @@
+--travailler avec git sur un projet
+-- repository
+= dossier = dépot => dossier dans lequel git va stocker l'évolution de votre projet
+
+
+--lancer explorer windows-- aller dans le dossier qui contient le projet
+-- barre d'adresse de l'explorer =>rajouter cmd au début de l'adresse (path) +espace + entrer
+-- ouvrir un terminal à la racine du projet
+un terminal dans le dossier cmd C:\Users\stagiaire\Desktop\git
+=> dossier root de notre projet
+
+=> git init 
+Initialized empty Git repository in C:/Users/stagiaire/.git/
+créer un repository => dossier qui va contenir le versionning de mon projet
+=> DANS ce dossier que le versionning est réaliser
+=> ne pas écrire dans ce fichier=> c'est via le terminal que l'on va réaliser dans le dossier .git=> attention le dossier .git n'existe QUE dans les dossiers dans lesquels vous avez réaliser git init
+Si on va dans l'explorer on VOIT LES DOSSIER FANTOME de Git
+
+
+=> cas pratique
+=> créer un fichier index.html
+=>installer bbostrap
+
+=>créer un menu (Navbar)
+=> 3 liens
+Accueil
+Blog
+Contact
+
+=>git add jour1/index.html
+=>git commit -m"création de la barre de menu avec boostrap"
+
+Le rajout dans GIT + creation du master 
+
+[master (root-commit) 4374bdb] création de la barre de menu avec boostrap
+ 1 file changed, 50 insertions(+)
+ create mode 100644 jour1/index.html
+
+ AVOIR L'EVOLUTION  DU versionningdans la console faire GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3
+
+ gitk affiche les EVOLUTION
+
+ git log --oneline
+
+ on récupère le chiffre (n du commit) EN TAPANT git log --oneline
+
+ git checkout xxxxxx
+
+ git checkout master (on retrouve la version finale)
+
+
+je viens de finir la page d'accueil du suite
+=>page blog du site => créer une branche spéciale pour la page blog=> 
+si je finis et le client content => merge
+
+=>si je finis que le client me dit NON => supprimer la brabch
+
+bien sauvegarder +
+git add + git commit
+
+=> git branch page-blog(nom de la branche) créer une première branch dans mon projet
+=> git checkout page-blog
+Switched to branch 'page-blog'
+m   index.html
