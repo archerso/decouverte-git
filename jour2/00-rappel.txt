@@ -24,3 +24,24 @@ git checkout master
 
 git merge page-bloggit branch -D page-blog
 
+cas pratique 
+
+git add allgit commit -m "start nouvelle branch"
+
+=>créer une nouvelle branch page contacter
+=> menu entete de page
+=> en dessus du formulaire
+
+champ saisir l'email
+
+menu déroulant pour choisir un service => commercial informatique 
+https://getboostrap.com/docs/5.3/forms/select/
+
+champ  dans lequel vous pouvez saisir un commentaire multiligne
+ bouton de soumission
+
+ enregistrer la version
+ git add --all
+ git commit -m "start nouvelle branch mastrer
+
+
